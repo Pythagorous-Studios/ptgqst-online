@@ -1,2 +1,2 @@
 # ptgqst-online
-A flask wrapper for the ptg-qst eng to allow multiplayer over http requests.
+A flask wrapper for the Pythagporous Quest engine to allow multiplayer over http requests.
